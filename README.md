@@ -1,3 +1,3 @@
 # JPbookstore
 
-This is a school project made in Java/JSP that simulates a web commerce bookstore
+This is a school project using Java/JSP that simulates a web commerce bookstore
